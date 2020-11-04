@@ -2,18 +2,18 @@
 Prova tecnica
 
 # 1 - Instalação Python e apache beam
-python3 --version
-python3 -m pip --version
-pip install apache-beam[gcp]
-or
-pip install apache-beam
-pip install pandas
-mkdir your-project
-cd your-project
-python3 -m venv venv
-source venv/bin/activate
-pip install google-cloud-storage
-python3 job.py
+*python3 --version
+*python3 -m pip --version
+*pip install apache-beam[gcp]
+*or
+*pip install apache-beam
+*pip install pandas
+*mkdir your-project
+*cd your-project
+*python3 -m venv venv
+*source venv/bin/activate
+*pip install google-cloud-storage
+*python3 job.py
 
 - se precisar parar de usar o ambiente virtual: deactivate
 
